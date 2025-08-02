@@ -11,6 +11,7 @@ package com.mycompany.swing_practica;
 public class Swing_practica {
 
     public static void main(String[] args) {
-        VentanaS ven = new VentanaS();
+
+        Ventana ven = new Ventana();
     }
 }
